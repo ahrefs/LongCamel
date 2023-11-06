@@ -1,0 +1,11 @@
+ninja
+packaging
+wheel
+torch
+transformers
+datasets
+numpy
+openai
+wandb
+flash-attn
+deepspeed
